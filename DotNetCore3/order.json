@@ -1,0 +1,8 @@
+﻿{
+  "Id": 1,
+  "TrackingNumber": "123",
+  "ShippingAddress": {
+    "Street": "221 B Baker St",
+    "City": "London"
+  }
+}
